@@ -4,7 +4,7 @@ SHA-3 was known as Keccak and is a hash function designed by Guido Bertoni, Joan
 <br>In October 2012, Keccak won the NIST hash function competition, and is proposed as the SHA-3 standard.
 <br>The SHAKE method is useful as it can be used to create a hash method of a variable length. For example the 128-bit version will produce a hash value is 32 hex characters.
 
-## implemeation
+## Implemeation
 
 SHA3-Keccak 224, 256, 384, 512
 <br>SHA3-SHAKE 128, 256
